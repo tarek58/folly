@@ -4,6 +4,9 @@ name = zstd
 [homebrew]
 zstd
 
+[debs]
+zstd
+
 [rpms]
 libzstd-devel
 libzstd
